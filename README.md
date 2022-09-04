@@ -1,3 +1,3 @@
 # Table of Contents
-## Name
+1. ## Multiple Linear Regression
 
