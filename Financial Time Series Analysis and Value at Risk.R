@@ -63,7 +63,7 @@ tail(AMZN.rtn)
 tail(sigma(fit))
 
 
-#VALUE AT RISK UNDER THE RISK METRICS APPROACH
+#VALUE AT RISK UNDER THE ECONOMETRICS APPROACH
 #Fitting garch(1,1)
 m1=garchFit(~1 + garch(1,1),data=AMZN.rtn,trace=F)
 m1
