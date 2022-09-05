@@ -6,7 +6,7 @@
 2. ## Financial Time Series & Calculating Value at risk
       * [Description](#Description)
       * [Assumptions](#Assumptions)
-      * [Residuals] (#Residuals)
+      * [Residuals](#Residuals)
       * [VaR Under Risk Metrics](#VaR-Under-Risk-Metrics)
       * [VaR Under Econometrics](#VaR-Under-Econometrics)
  ---          
