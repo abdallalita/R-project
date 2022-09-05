@@ -1,16 +1,16 @@
 # Table of Contents
 1. ## Multiple Linear Regression
-      * [Description](#Description)
+      * [Description](#Description-1)
       * [Assumptions](#Assumptions)
       * [Regression Analysis](#Regression-Analysis)     
 2. ## Financial Time Series & Calculating Value at risk
-      * [Description](#Description)
+      * [Description](#Description-2)
       * [Assumptions](#Assumptions)
       * [Residuals](#Residuals)
       * [VaR Under Risk Metrics](#VaR-Under-Risk-Metrics)
       * [VaR Under Econometrics](#VaR-Under-Econometrics)
  ---          
-### Description
+### Description 1
 #
 Multiple Linear Regression (MLR) is a statistical process for estimating the relationship between a dependent variable and one or more independent variables.In my case I used MLR to investigate the impact or influence of the amount of money spent on three departments (R.D.Spend,Administration, Marketing) pr the independent variables on the overall Profit or dependent variable for a certain company(Startups).I also predicted the future Profit using certain amounts spent on the three departments.
 ---
@@ -31,7 +31,7 @@ I first checked the assmptions of MLR to ensure that they are met.
 - t-Statistic - only the pvalue of Marketing was less than 0.05, hence it was not significant or useful in prediction.
 - Annova - includes the F-statistic needed to gauge the model's statistical significance
 ---
-### Description
+### Description 2
 #
 Financial Time Series (FTS) refers to the analysis of financial data overtime and include; company sales,profits,interest rates fluctuations,costs and so on.
 The main objectives of FTS include;
