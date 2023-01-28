@@ -59,7 +59,7 @@ Arch effects for the squared residuals - tested so as to build a volatility mode
 ---
 ### VaR Under Risk Metrics
 #
-- Fitted an iGRACH(1,1) model.
+- Fitted an iGARCH(1,1) model.
 - Extracted the last return and volatility value.
 - Obtained the 1-step ahead volatility forecast form the model.
 - Calculated Value at Risk  at 5% probability.
